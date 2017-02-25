@@ -1,0 +1,20 @@
+Welcome to Mobile Management Shop.
+----------------------------------------------------------------------------------------------------------------------------
+Steps for executing part 1 project:
+
+
+1. Install Sun Microsystems JDK 1.5.0 or more on your pc.
+
+2. Install an editor or IDE like Eclipse to type your code.
+
+3. Type your code and save it in "bin" folder as extension ".java"
+
+4. Run cmd and set your path, e.g if your Java is installed on D drive in java folder then
+set path as "D:\Java\jdk1.5\bin".
+
+5. Compile it to make a .class file, instruction is "javac filename.java".
+
+6. If any errors are there,it would be displayed and must be removed else to
+run, instuction is "java filename".
+
+7. Program will be executed.

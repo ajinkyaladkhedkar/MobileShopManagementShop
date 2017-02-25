@@ -1,0 +1,26 @@
+Welcome to Mobile Management Shop.
+----------------------------------------------------------------------------------------------------------------------------
+Steps for executing part 3 project:
+
+
+1. Install Jakarta Apache Tomcat 4.1 server side software on pc,while installing give port number as 8081 for Tomcat.
+
+2. Install Oracle 10g on your pc.
+
+3. Type your code on editor or eclipse.
+
+4. For executing project, copy the folder "p" in code folder and paste it in D:\Tomcat\webapps\ROOT.
+
+5.Open your Oracle 10g and create the mobile and login table.
+
+6. Create connection between the program and oracle by making a DSN.
+
+7. For making a DSN, goto control panel\administrative tools\ODBC\add UserDsn
+
+8. Start the Tomcat server.
+
+9. Type address on address bar as: localhost:8081/p/login.jsp
+
+10. Login page will be executed.
+ 
+11. Program will be executed.

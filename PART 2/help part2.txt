@@ -1,0 +1,16 @@
+Welcome to Mobile Management Shop.
+----------------------------------------------------------------------------------------------------------------------------
+Steps for executing part 2 project:
+
+
+1. Install a Web Browser on your pc.
+
+2. Type your code on editor or in Eclipse.
+
+3. Create a .class file by successfully compiling your code.
+
+4. Create an HTML doc. and give code=filename.class in <applet> tags.
+
+5. Run directly by double clicking on the HTML document.
+
+6. Program will be executed.

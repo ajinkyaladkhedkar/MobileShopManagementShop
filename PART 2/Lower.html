@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>MOBILE SHOP MANAGEMENT </title>
+</head>
+
+<body bgcolor="CYAN">
+
+<marquee><h2><font color="CYAN">!!Welcome to Mobile Megastore!!</font></h2></marquee>
+
+<script language="JavaScript" type="text/javascript">
+	  function display()
+	  {
+		var v = document.frm1.id.value;
+		var v2 = document.frm1.pass.value;
+		document.write("<marquee><h2>Welcome to Mobile Megastore</h2></marquee>");
+		document.write("<center>");
+		if( v == "admin" && v2=="admin")
+		 document.write("<applet code= part2 height=500 width=500></applet>");
+		else
+		 document.write("<h2>Invalid Username or Password </h2>");
+	   }
+</script>
+
+
+<center>
+<form name="frm1">
+
+Enter UserName :<input type="text" name="id"><br><br>
+Enter Password :<input type="password" name="pass"><br><br>
+
+<input type="button" value="submit" name="button1" onclick="display()"><br>
+        
+</form>
+
+</body>
+</html>
