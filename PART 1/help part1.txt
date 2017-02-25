@@ -3,7 +3,7 @@ Welcome to Mobile Management Shop.
 Steps for executing part 1 project:
 
 
-1. Install Sun Microsystems JDK 1.5.0 or more on your pc.
+1. Install JDK 1.5.0 or more on your pc.
 
 2. Install an editor or IDE like Eclipse to type your code.
 
